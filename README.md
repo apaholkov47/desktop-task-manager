@@ -1,1 +1,11 @@
-# desktop-task-manager
+# Desktop Task Manager
+
+Описание проекта...
+
+## Функционал
+- Создание задач
+- Удаление задач
+- Фильтрация
+
+## Технологии
+Python + Tkinter
